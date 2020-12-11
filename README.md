@@ -1,5 +1,6 @@
-### Hi there 👋
+### 语气放平缓一点，大家都是打工的 🤔
 
+![](https://raw.githubusercontent.com/bigbigbo/picgo/master/img/20201211113702.jpg)
 <!--
 **bigbigbo/bigbigbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
